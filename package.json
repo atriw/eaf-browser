@@ -1,4 +1,6 @@
 {
+  "name": "eaf-browser",
+  "version": "0.0.1",
   "dependencies": {
     "@mozilla/readability": "^0.4.1",
     "darkreader": "^4.9.34"
